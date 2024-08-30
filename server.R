@@ -5,7 +5,7 @@ library(DT)
 
 # Define server logic
 function(input, output, session) {
-  
+   
   # Server logic for home tab
   output$home <- renderText({
     "Welcome to the Home page"
