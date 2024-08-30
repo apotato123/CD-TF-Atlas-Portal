@@ -1,6 +1,6 @@
 library(shiny)
 library(shinythemes)
-library(DT)
+library(DT) 
 
 # Define UI
 ui <- navbarPage(
